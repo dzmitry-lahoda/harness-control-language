@@ -14,6 +14,8 @@ context
 
 reasoning - build plan, breakdown problems, solve each part, check solutions, combine parts, draft solution, reivew solution,
 
+modes - interactive | non_interactive
+
 # dotfiles for Agents
 
 ```
