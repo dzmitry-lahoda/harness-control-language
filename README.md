@@ -12,6 +12,8 @@ agent - has its own context and acts as some role
 
 context
 
+reasoning - build plan, breakdown problems, solve each part, check solutions, combine parts, draft solution, reivew solution,
+
 # dotfiles for Agents
 
 ```
