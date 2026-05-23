@@ -18,4 +18,19 @@ context
 
 reasoning - build plan, breakdown problems, solve each part, check solutions, combine parts, draft solution, reivew solution,
 
-modes - interactive | non_interactive
+???resources: Context and data, for the user or the AI model to use
+
+prompts: Templated messages and workflows for users
+
+sampling: requests for LLM from agents, given agetnts context
+
+roots: Server-initiated inquiries into URI or filesystem boundaries to operate in
+
+elicitation - agent requests for additional information from agents
+
+rights - for resource, read, write, 
+
+specific agent instances are 
+- user (human in the loop) whihc is interacvie
+- coordinator
+
