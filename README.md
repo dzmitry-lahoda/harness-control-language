@@ -1,3 +1,17 @@
+state - share amid agents, persisted amid runs
+
+shell - set of tools provided to agent
+
+tool
+
+task
+
+goal
+
+agent - has its own context and acts as some role
+
+context
+
 # dotfiles for Agents
 
 ```
