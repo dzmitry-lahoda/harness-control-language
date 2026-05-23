@@ -2,7 +2,7 @@ state - share amid agents, persisted amid runs
 
 shell - set of tools provided to agent
 
-tool
+tool - functions for the AI model to execute
 
 task
 
