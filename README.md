@@ -1,4 +1,4 @@
-Unix oriented language to descrive agentic workflows
+Unix and Capability oriented language to descrive agentic workflows
 
 ## grammar
 
